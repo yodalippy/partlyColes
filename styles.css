@@ -1,31 +1,31 @@
 @font-face{
     font-family: "mainFont";
-    src: url(fonts/unboundedRegular-DYRl3.ttf)
+    src: url(fonts/regular.ttf)
 }
 
 @font-face{
     font-family: "sans";
-    src: url(fonts/Ldfcomicsans-jj7l.ttf)
+    src: url(fonts/sans.ttf)
 }
 
 @font-face{
     font-family: "papyrus";
-    src: url(fonts/ParchmentMf-Vqge/tff)
+    src: url(fonts/papyrus.ttf)
 }
 
 @font-face{
     font-family: "nintendo";
-    src: url(fonts/RoSpritendoSemiboldBeta-vmVwZ.otf)
+    src: url(fonts/nintendo.otf)
 }
 
 @font-face{
     font-family: "punk";
-    src: url(fonts/VeryVeryPunkFont-ZpZ0K.ttf/)
+    src: url(fonts/punk.ttf/)
 }
 
 @font-face{
     font-family: "unown";
-    src: url(fonts/HeavenezersUnown-rvWM7.ttf)
+    src: url(fonts/unown.ttf)
 }
 
 
