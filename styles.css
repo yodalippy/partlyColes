@@ -1,0 +1,80 @@
+@font-face{
+    font-family: "mainFont";
+    src: url(fonts/unboundedRegular-DYRl3.ttf)
+}
+
+@font-face{
+    font-family: "sans";
+    src: url(fonts/Ldfcomicsans-jj7l.ttf)
+}
+
+@font-face{
+    font-family: "papyrus";
+    src: url(fonts/ParchmentMf-Vqge/tff)
+}
+
+@font-face{
+    font-family: "nintendo";
+    src: url(fonts/RoSpritendoSemiboldBeta-vmVwZ.otf)
+}
+
+@font-face{
+    font-family: "punk";
+    src: url(fonts/VeryVeryPunkFont-ZpZ0K.ttf/)
+}
+
+@font-face{
+    font-family: "unown";
+    src: url(fonts/HeavenezersUnown-rvWM7.ttf)
+}
+
+
+/*giving the nav section a special font that comes from the mario games and making it flex so that the links can be displayed
+side by side in a bar. changing the width and margins so the bar covers the whole top fo the screen*/
+#top{
+    font-family: "punk";
+    display: flex;
+    width: 100%;
+    margin-left: -1%;
+    margin-top: -1%;
+}
+
+/*turning the links and button into the flex boxes and decorating them*/
+#top a, #top button{ 
+    background: none;
+    flex: 1 0 auto;
+    display:block;
+    text-decoration: none;
+    border: 2px outset;
+    color: white;
+    background-color: black;
+    padding: 2%;
+    border-bottom-left-radius:5px;
+    border-bottom-right-radius:5px;  
+}
+
+/*this code ensures that the links change color, and become larger when hovered upon*/
+#top a:hover, #top button:hover{   
+    color: black;
+    text-decoration: none;
+    background-color: white;
+    border: 2px outset; 
+}
+
+#top a:hover{
+    padding-right: 20%;
+}
+
+
+
+h1, h2, h3{
+    font-family: "nintendo";
+
+}
+
+
+@media only screen and (max-width: 600px) {
+
+    
+
+}
