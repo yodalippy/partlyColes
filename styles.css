@@ -79,6 +79,10 @@ h1, h2, h3{
     text-align: center;
 }
 
+p {
+    font-family: "mainFont"
+}
+
 
 @media only screen and (max-width: 600px) {
 
