@@ -32,7 +32,6 @@
 /*giving the nav section a special font that comes from the mario games and making it flex so that the links can be displayed
 side by side in a bar. changing the width and margins so the bar covers the whole top fo the screen*/
 .top{
-    font-family: "punk";
     display: flex;
     width: 100%;
     margin-left: -1%;
@@ -51,6 +50,7 @@ side by side in a bar. changing the width and margins so the bar covers the whol
     padding: 2%;
     border-bottom-left-radius:5px;
     border-bottom-right-radius:5px;  
+    font-family: "punk"
 }
 
 /*this code ensures that the links change color, and become larger when hovered upon*/
@@ -59,7 +59,6 @@ side by side in a bar. changing the width and margins so the bar covers the whol
     text-decoration: none;
     background-color: white;
     border: 2px outset; 
-    font-size: larger;
 }
 
 .top .currentLink {
