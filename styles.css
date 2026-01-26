@@ -13,6 +13,10 @@
     src: url(fonts/westernic.otf)
 }
 
+@font-face{
+    font-family: "nintendo";
+    src: url(fonts/nintendo.otf)
+}
 
 
 
