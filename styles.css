@@ -76,7 +76,7 @@ side by side in a bar. changing the width and margins so the bar covers the whol
 
 h1, h2, h3{
     font-family: "nintendo";
-
+    text-align: center;
 }
 
 
