@@ -1,32 +1,22 @@
 @font-face{
     font-family: "mainFont";
-    src: url(fonts/regular.ttf)
+    src: url(fonts/regular.ttf);
 }
 
 @font-face{
-    font-family: "sans";
-    src: url(fonts/sans.ttf)
+    font-family: "gothic";
+    src: url(fonts/erben_gothic.tff)
 }
 
 @font-face{
-    font-family: "papyrus";
-    src: url(fonts/papyrus.ttf)
+    font-family: "western";
+    src: url(fonts/westernic.otf)
 }
 
-@font-face{
-    font-family: "nintendo";
-    src: url(fonts/nintendo.otf)
-}
 
-@font-face{
-    font-family: "punk";
-    src: url(fonts/punk.ttf/)
-}
 
-@font-face{
-    font-family: "unown";
-    src: url(fonts/unown.ttf)
-}
+
+
 
 
 /* Top Navigation settings */
@@ -52,7 +42,7 @@ side by side in a bar. changing the width and margins so the bar covers the whol
     padding: 2%;
     border-bottom-left-radius:5px;
     border-bottom-right-radius:5px;  
-    font-family: "punk";
+    font-family: "gothic";
     font-size: 2em;
 }
 
@@ -80,7 +70,7 @@ h1, h2, h3{
 }
 
 p {
-    font-family: "mainFont"
+    font-family: "western"
 }
 
 
