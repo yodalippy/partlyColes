@@ -74,10 +74,13 @@ h1, h2, h3{
 }
 
 p {
-    font-family: "semiRegular";
+    font-family: "mainFont";
     font-size: large;
 }
 
+#caution{
+    color: red;
+}
 
 @media only screen and (max-width: 600px) {
 
