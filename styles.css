@@ -18,14 +18,16 @@
     src: url(fonts/nintendo.otf)
 }
 
-
-
+@font-face{
+    font-family: "semiRegular";
+    src: url(fonts/ShareTech-Regular.tff)
+}
 
 
 
 /* Top Navigation settings */
 
-/*giving the nav section a special font that comes from the mario games and making it flex so that the links can be displayed
+/*giving the nav section flex so that the links can be displayed
 side by side in a bar. changing the width and margins so the bar covers the whole top fo the screen*/
 .top{
     display: flex;
@@ -67,12 +69,12 @@ side by side in a bar. changing the width and margins so the bar covers the whol
 }
 
 h1, h2, h3{
-    font-family: "gothic";
+    font-family: "nintendo";
     text-align: center;
 }
 
 p {
-    font-family: "nintendo"
+    font-family: "semiRegular"
 }
 
 
