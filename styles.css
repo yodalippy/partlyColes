@@ -73,7 +73,7 @@ h1, h2, h3{
     text-align: center;
 }
 
-p {
+p, a{
     font-family: "mainFont";
     font-size: large;
 }
@@ -81,6 +81,19 @@ p {
 #caution{
     color: red;
 }
+
+#flex1{
+    display:flex
+}
+
+#box1{
+    flex:70%
+}
+
+#box2{
+    flex:30%
+}
+
 
 @media only screen and (max-width: 600px) {
 
@@ -92,7 +105,10 @@ p {
     }
 
     #tabAndList{
-        display:block
+        display:block;
     }
 
+    #flex1{
+        display:block;
+    }
 }
