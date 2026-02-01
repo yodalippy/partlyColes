@@ -66,8 +66,6 @@ side by side in a bar. changing the width and margins so the bar covers the whol
     padding-right: 20%;
 }
 
-
-
 h1, h2, h3{
     font-family: "nintendo";
     text-align: center;
@@ -80,6 +78,15 @@ p {
 
 @media only screen and (max-width: 600px) {
 
-    
+       #top{
+        display:block;
+    }
+    #top a:hover{
+        padding-right: 0%
+    }
+
+    #tabAndList{
+        display:block
+    }
 
 }
