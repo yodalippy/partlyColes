@@ -46,7 +46,7 @@ side by side in a bar. changing the width and margins so the bar covers the whol
     padding: 2%;
     border-bottom-left-radius:5px;
     border-bottom-right-radius:5px;  
-    font-family: fantasy;
+    font-family: "gothic";
     font-size: 2em;
 }
 
@@ -67,12 +67,12 @@ side by side in a bar. changing the width and margins so the bar covers the whol
 }
 
 h1, h2, h3{
-    font-family: "nintendo";
+    font-family: "gothic";
     text-align: center;
 }
 
 p {
-    font-family: "western"
+    font-family: "nintendo"
 }
 
 
