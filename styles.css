@@ -122,6 +122,10 @@ dl{
     font-size: large;
 }
 
+dl a{
+    text-decoration:underline;
+}
+
 footer{
     display:inline-block;
     background-color: black;
