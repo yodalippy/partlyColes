@@ -25,7 +25,14 @@
 
 body{
     text-align: center;
-    background-image:url(images/graffitiBG.jpg)
+    background-image:url(images/graffitiBG.jpg);
+    color:white;
+}
+
+main{
+     background-image: 
+     radial-gradient(circle, #893af0, #6d4be7, #5554db, #435acb, #395dba, #3960b7,
+      #3a63b3, #3c65af, #3e6abb, #406fc6, #4373d2, #4678de);
 }
 
 
@@ -70,6 +77,12 @@ side by side in a bar. changing the width and margins so the bar covers the whol
 
 .top a:hover{
     padding-right: 20%;
+}
+
+.top a:active{
+    font-weight:bold;
+    background-color: white;
+    color: black;
 }
 
 h1, h2, h3{
