@@ -23,6 +23,9 @@
     src: url(fonts/ShareTech-Regular.tff)
 }
 
+*{
+    text-align: center;
+}
 
 
 /* Top Navigation settings */
@@ -83,15 +86,16 @@ p, a{
 }
 
 #flex1{
-    display:flex
+    display:flex;
+    padding:2.5%
 }
 
 #box1{
-    flex:70%
+    flex:67.5%
 }
 
 #box2{
-    flex:30%
+    flex:27.5%
 }
 
 
