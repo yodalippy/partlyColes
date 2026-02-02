@@ -33,13 +33,13 @@ body a{
     text-decoration:none;
     font-weight:bold;
     color:white;
-    padding: 5%;
 }
 
 main{
      background-image: 
      radial-gradient(circle, #893af0, #6d4be7, #5554db, #435acb, #395dba, #3960b7,
       #3a63b3, #3c65af, #3e6abb, #406fc6, #4373d2, #4678de);
+    padding:5%
 }
 
 
@@ -120,6 +120,11 @@ p, a{
 
 dl{
     font-size: large;
+}
+
+footer{
+    display:inline-block;
+    background-color: black;
 }
 
 
