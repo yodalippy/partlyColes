@@ -95,7 +95,7 @@ side by side in a bar. changing the width and margins so the bar covers the whol
 h1, h2, h3{
     font-family: "nintendo";
     text-align: center;
-    text-decoration:underline;
+    
 }
 
 p, a{
@@ -113,12 +113,12 @@ p, a{
 
 #box1{
     flex:65%;
-    border:black 1px solid
+    border:black 1px dashed
 }
 
 #box2{
     flex:25%;
-    border:black 1px solid
+    border:black 1px dashed
 }
 
 dl{
