@@ -142,6 +142,10 @@ footer{
     padding:2%
 }
 
+.comingSoon{
+    background-color:black;
+    display:inline-block;
+}
 
 
 @media only screen and (max-width: 600px) {
