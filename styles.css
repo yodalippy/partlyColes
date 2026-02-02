@@ -39,7 +39,9 @@ main{
      background-image: 
      radial-gradient(circle, #893af0, #6d4be7, #5554db, #435acb, #395dba, #3960b7,
       #3a63b3, #3c65af, #3e6abb, #406fc6, #4373d2, #4678de);
-    padding:5%
+    padding:5%;
+    border-bottom-left-radius:5px;
+    border-bottom-right-radius:5px; 
 }
 
 
