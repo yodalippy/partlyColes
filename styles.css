@@ -123,6 +123,10 @@ dl{
     padding: 3%;
 }
 
+dt{
+    padding: 3%
+}
+
 dl a{
     text-decoration:underline;
 }
