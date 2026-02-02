@@ -23,8 +23,9 @@
     src: url(fonts/ShareTech-Regular.tff)
 }
 
-*{
+body{
     text-align: center;
+    background-image:url(images/graffitiBG.jpg)
 }
 
 
@@ -96,6 +97,10 @@ p, a{
 
 #box2{
     flex:27.5%
+}
+
+dl{
+    font-size: large;
 }
 
 
