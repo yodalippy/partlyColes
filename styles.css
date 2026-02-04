@@ -141,7 +141,9 @@ footer{
     display:inline-block;
     background-color: black;
     opacity: 90%;
-    padding:2%
+    padding:2%;
+    border-bottom-left-radius:5px;
+    border-bottom-right-radius:5px;
 }
 
 .comingSoon{
