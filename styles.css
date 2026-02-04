@@ -39,7 +39,7 @@ main{
       background-image:
       radial-gradient(circle, #000000, #090809, #110f11, #151417,
        #19191c, #1c1d22, #1e2228, #1f272e, #202e35, #21353a, #233c3e, #274341);
-    opacity: 90%;
+    opacity: 95%;
     padding:5%;
     border-bottom-left-radius:20px;
     border-bottom-right-radius:20px; 
