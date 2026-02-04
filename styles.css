@@ -140,6 +140,7 @@ dl a{
 footer{
     display:inline-block;
     background-color: black;
+    opacity: 90%;
     padding:2%
 }
 
